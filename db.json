@@ -1,0 +1,132 @@
+{
+    "visimisi": [
+        {
+            "title": "Global Identity Officer",
+            "text": "Ex similique voluptas eaque nesciunt fugiat similique sed eum. Occaecati commodi voluptate culpa. Sint voluptatibus enim odit nemo at voluptas molestiae atque culpa. Ut nisi blanditiis dolorem odit facilis consequatur cupiditate. Rem rerum commodi quo sunt sunt velit ad enim accusamus.\nQui et quibusdam quasi ea qui minima qui et. Minima autem qui aliquam modi. Aliquid doloremque et quaerat laborum totam necessitatibus rerum.\nOptio voluptatibus unde. Sint porro sit est voluptatem. Quia nisi similique laboriosam ut minima rerum. Corporis adipisci fuga ex voluptatem voluptatum. Vitae numquam sit est autem sint repudiandae qui voluptates illo. Quas quia ab et nostrum enim dignissimos.",
+            "image": "http://loremflickr.com/640/480/technics",
+            "id": "1"
+        },
+        {
+            "title": "Corporate Metrics Designer",
+            "text": "Rem sit voluptatem dolorem voluptates. Minus est quia molestiae. Veniam at voluptatem. Debitis earum voluptate. Non itaque repudiandae corrupti cumque. Expedita numquam molestias explicabo.\nSed unde voluptatum voluptatibus dolor deleniti. Expedita adipisci officiis. Est exercitationem minima repellendus rem veritatis et. Aut nostrum delectus asperiores voluptas voluptatem. Maiores quas recusandae. Sequi aut corrupti quia molestiae nihil dolores quia.\nVoluptatem officiis incidunt recusandae consectetur. Ad qui quaerat suscipit dolorem ex magnam. Voluptas consequatur corrupti. Neque architecto aut quidem est possimus vero consequatur eaque.",
+            "image": "http://loremflickr.com/640/480/technics",
+            "id": "2"
+        }
+    ],
+    "founders": [
+        {
+            "name": "Sandrine",
+            "position": "Investor Integration Facilitator",
+            "image": "http://loremflickr.com/640/480/business",
+            "social": [],
+            "text": "Nihil saepe porro. Tempore quibusdam nihil molestias consequuntur voluptate tempore qui ab dolores. Inventore quos non eius. Et velit quis. Est iusto quidem eum odio ut quae aut. Non voluptas sapiente reprehenderit magni nobis minima autem.",
+            "id": "1"
+        },
+        {
+            "name": "Vickie",
+            "position": "Product Configuration Representative",
+            "image": "http://loremflickr.com/640/480/city",
+            "social": [],
+            "text": "Iste non est quia cum possimus nisi. Natus id dicta. Consequatur corrupti molestias voluptas sequi ducimus quia possimus. Deserunt et hic odio praesentium sunt. Magnam est consequatur ut.",
+            "id": "2"
+        },
+        {
+            "name": "Muhammad",
+            "position": "Lead Metrics Architect",
+            "image": "http://loremflickr.com/640/480/cats",
+            "social": [],
+            "text": "Dolore nisi delectus officiis. Enim architecto vel odit et facere corporis cumque et. Consequatur inventore voluptatem atque animi asperiores minima. Corrupti suscipit velit sapiente perspiciatis sint tempora velit voluptates consequuntur. Explicabo pariatur sint minus hic sunt nisi autem in architecto.",
+            "id": "3"
+        },
+        {
+            "name": "Stevie",
+            "position": "Regional Marketing Representative",
+            "image": "http://loremflickr.com/640/480/city",
+            "social": [],
+            "text": "Incidunt non deserunt labore dolor quaerat. Exercitationem nesciunt qui numquam ut esse. Corporis totam consequatur amet sed et omnis.",
+            "id": "4"
+        },
+        {
+            "name": "Martine",
+            "position": "Direct Response Liaison",
+            "image": "http://loremflickr.com/640/480/people",
+            "social": [],
+            "text": "Expedita consequatur rerum voluptatem in ducimus animi. Dolores voluptatibus neque tempora. Ut incidunt laboriosam facere fugiat voluptatibus quae vel quo. Reiciendis exercitationem dolorem suscipit eaque odio hic quod aliquam qui. Sit odio omnis velit inventore similique aut commodi quos quo.",
+            "id": "5"
+        },
+        {
+            "name": "Nathanial",
+            "position": "Future Program Planner",
+            "image": "http://loremflickr.com/640/480/sports",
+            "social": [],
+            "text": "Facere quo et ab. Voluptates aspernatur velit ad vel nemo est. Est cumque quo accusamus autem dolorem iure et. Nulla enim sit dolor et libero. Sit minus non adipisci rerum voluptatem ut.",
+            "id": "6"
+        }
+    ],
+    "partner": [
+        {
+            "image": "http://loremflickr.com/640/480/city",
+            "id": "1"
+        },
+        {
+            "image": "http://loremflickr.com/640/480/nightlife",
+            "id": "2"
+        }
+    ],
+    "partnership": {
+        "partnershipad": {
+            "title": "Global Creative Analyst",
+            "text": "Numquam repellat unde omnis ab sunt. Qui enim quam soluta dicta quaerat laboriosam ex ut. Omnis numquam distinctio. Dolorem eos soluta ut aliquam in laudantium. Aut ex fugit dolorem rerum iure. Rerum iusto quibusdam qui possimus debitis ut numquam ut rerum.",
+            "image": "http://loremflickr.com/640/480/food",
+            "id": "1"
+        },
+        "partnershipdata": [
+            {
+                "title": "illum",
+                "images": [],
+                "id": "1"
+            },
+            {
+                "title": "ducimus",
+                "images": [],
+                "id": "2"
+            },
+            {
+                "title": "cumque",
+                "images": [],
+                "id": "3"
+            },
+            {
+                "title": "est",
+                "images": [],
+                "id": "4"
+            }
+        ]
+    },
+    "availablein": [
+        {
+            "image": "image 1",
+            "id": "1"
+        },
+        {
+            "image": "image 2",
+            "id": "2"
+        },
+        {
+            "image": "image 3",
+            "id": "3"
+        },
+        {
+            "image": "image 4",
+            "id": "4"
+        }
+    ],
+    "contactus": [
+        {
+            "address": "3327 West Lodge",
+            "phone": 73519,
+            "mail": "Zena80@hotmail.com",
+            "id": "1"
+        }
+    ]
+}
